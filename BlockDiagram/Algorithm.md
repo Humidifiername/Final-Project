@@ -1,1 +1,1 @@
-![Здесь картинка блок-схемы алгоритма](Algorithm.png)
+![Здесь картинка блок-схемы алгоритма](https://drive.google.com/file/d/1lBMNNiDyiWxt5Lo8K5790R7S11aMbCxn/view?usp=share_link)
